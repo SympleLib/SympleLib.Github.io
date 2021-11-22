@@ -1,0 +1,22 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-color: #3B7080;
+	display: flex;
+}
+
+h1 {
+	color: #ADE25D;
+}
+
+#scrollview {
+	background-color: #3A5743;
+	text-align: center;
+
+	margin: auto;
+	width: 88%;
+	height: 100%;
+}
